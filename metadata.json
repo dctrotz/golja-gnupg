@@ -28,7 +28,11 @@
       "operatingsystem": "Debian",
       "operatingsystemrelease": [
         "6",
-        "7"
+        "7",
+        "8"
+        "9"
+        "10"
+        "11"
       ]
     },
     {
@@ -62,6 +66,9 @@
     "pgp"
   ],
   "dependencies": [
-  
+    {
+      "name": "puppetlabs/stdlib",
+      "version_requirement": ">= 4.16.0 < 9.0.0"
+    },
   ]
 }
