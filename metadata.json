@@ -55,10 +55,6 @@
     {
       "name": "puppet",
       "version_requirement": ">=3.0.0 <4.0.0"
-    },
-    {
-      "name": "pe",
-      "version_requirement": ">=3.0.0 <4.0.0"
     }
   ],
   "tags": [
